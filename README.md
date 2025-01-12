@@ -13,8 +13,6 @@ A fun and interactive timer-based game built with React where players test their
 
 ## Screenshots
 
-## Screenshots
-
 ![Main Game Screen](src/assets/pic1.png)
 *Main game interface showing multiple difficulty levels from Easy to Pros Only*
 
@@ -35,8 +33,7 @@ A fun and interactive timer-based game built with React where players test their
 ## Installation
 
 1. Clone the repository
-bash
-git clone [your-repository-url]
+git clone "https://github.com/Resan-ramazan/CountDown"
 
 3. Start the development server
 ## How to Play
@@ -68,10 +65,4 @@ git clone [your-repository-url]
 - Indicates win/loss status
 - Option to try again
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
